@@ -312,10 +312,11 @@ footer
  article
  {
     width: 70%;
+    height: auto;
  }
  .product-image
  {
-    height: 330px;
+    height: 600px;
  }
 }
 
@@ -325,10 +326,12 @@ footer
     article
     {
        width: 90%;
+       height: auto;
     }
     .product-image
     {
-       height: 320px;
+       
+       height: 460px;
     }
     .aside
     {
